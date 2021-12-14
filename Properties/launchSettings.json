@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pg_job": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Server=localhost;Port=5432;Database=test;User Id=user;Password=pass;Command Timeout=0\""
+    }
+  }
+}
